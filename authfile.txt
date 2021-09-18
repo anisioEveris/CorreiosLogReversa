@@ -1,0 +1,1 @@
+https://empresacws:123456@apphom.correios.com.br/logisticaReversaWS/logisticaReversaService/logisticaReversaWS?wsdl
