@@ -43,8 +43,11 @@ br\com\viavarejo\reversa\stub\AcompanharPedidoPorData.class
 br\com\viavarejo\reversa\stub\RetornoValidacao.class
 br\com\viavarejo\reversa\stub\ColetaSimultanea.class
 br\com\viavarejo\reversa\stub\CancelarPedidoResponse.class
+br\com\viavarejo\reversa\stub\LogisticaReversaService.class
+br\com\viavarejo\reversa\stub\LogisticaReversaWS.class
 br\com\viavarejo\reversa\stub\RetornoAcompanhamento.class
 br\com\viavarejo\reversa\stub\ObjetoSimplificado.class
+br\com\viavarejo\reversa\stub\ComponenteException.class
 br\com\viavarejo\reversa\stub\EnderecoResumoTO.class
 br\com\viavarejo\reversa\stub\ObjectFactory.class
 br\com\viavarejo\reversa\stub\ResultadoSolicitacao.class

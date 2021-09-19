@@ -6,6 +6,7 @@ C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\mai
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\RevalidarPrazoAutorizacaoPostagemResponse.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\ColetaReversa.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\RetornoValidacao.java
+C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\LogisticaReversaWS.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\ValidarPostagemReversa.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\RevalidarPrazoAutorizacaoPostagem.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\Coleta.java
@@ -41,9 +42,11 @@ C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\mai
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\AcompanharPedido.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\RetornoResumoColeta.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\AcompanharPedidoPorDataResponse.java
+C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\ComponenteException.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\SolicitarPostagemReversa.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\HistoricoColeta.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\SolicitarPostagemSimultaneaResponse.java
+C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\LogisticaReversaService.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\CalcularDigitoVerificador.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\RetornoCancelamento.java
 C:\Users\asiljuni\OneDrive - everis\Documentos\Spring\CorreiosLogReversa\src\main\java\br\com\viavarejo\reversa\stub\CalcularDigitoVerificadorResponse.java

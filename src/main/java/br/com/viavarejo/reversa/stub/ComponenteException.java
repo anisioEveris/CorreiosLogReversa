@@ -1,7 +1,7 @@
 
 package br.com.viavarejo.reversa.stub;
 
-import javax.xml.ws.WebFault;
+import jakarta.xml.ws.WebFault;
 
 
 /**

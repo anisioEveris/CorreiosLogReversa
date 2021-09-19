@@ -5,10 +5,10 @@ import jakarta.jws.WebMethod;
 import jakarta.jws.WebParam;
 import jakarta.jws.WebResult;
 import jakarta.jws.WebService;
+import jakarta.xml.bind.annotation.XmlSeeAlso;
 import jakarta.xml.ws.RequestWrapper;
 import jakarta.xml.ws.ResponseWrapper;
 
-import javax.xml.bind.annotation.XmlSeeAlso;
 import java.util.List;
 
 
@@ -48,7 +48,7 @@ public interface LogisticaReversaWS {
         @WebParam(name = "cartao", targetNamespace = "")
         String cartao,
         @WebParam(name = "destinatario", targetNamespace = "")
-                Pessoa destinatario,
+        Pessoa destinatario,
         @WebParam(name = "coletas_solicitadas", targetNamespace = "")
         List<ColetaReversa> coletasSolicitadas)
         throws ComponenteException
