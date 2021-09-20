@@ -32,6 +32,7 @@ br\com\viavarejo\reversa\stub\ValidarPostagemSimultanea.class
 br\com\viavarejo\reversa\API.class
 br\com\viavarejo\reversa\stub\RevalidarPrazoAutorizacaoPostagem.class
 br\com\viavarejo\reversa\stub\SolicitarRangeResponse.class
+br\com\viavarejo\reversa\API$1.class
 br\com\viavarejo\reversa\stub\CalcularDigitoVerificadorResponse.class
 br\com\viavarejo\reversa\stub\RetornoPostagem.class
 br\com\viavarejo\reversa\stub\AcompanharPedidoPorDataResponse.class
